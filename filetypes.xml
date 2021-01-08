@@ -6,6 +6,7 @@
       <mapping ext="pmd" type="PLAIN_TEXT" />
       <mapping ext="rtf" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="XHTML" />
     </extensionMap>
   </component>
